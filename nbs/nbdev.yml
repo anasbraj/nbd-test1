@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbd-test1"
+  site-url: "https://anasbraj.github.io/nbd-test1"
+  description: "this is a (first) test repo for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/anasbraj/nbd-test1"
