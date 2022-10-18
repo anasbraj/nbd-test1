@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://anasbraj.github.io',
                 'git_url': 'https://github.com/anasbraj/nbd-test1',
                 'lib_path': 'nbd_test1'},
-  'syms': {'nbd_test1.core': {'nbd_test1.core.foo': ('core.html#foo', 'nbd_test1/core.py')}}}
+  'syms': { 'nbd_test1.core': { 'nbd_test1.core.foo': ('core.html#foo', 'nbd_test1/core.py'),
+                                'nbd_test1.core.new': ('core.html#new', 'nbd_test1/core.py')}}}
