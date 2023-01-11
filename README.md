@@ -6,6 +6,17 @@ nbd-test1
 This file will become your README and also the index of your
 documentation.
 
+# My comments
+
+These are my comments after initializing the nbdev project.</br> If
+everything works, this should be visible in new documentation.
+
+``` python
+print("Hello Docs!")
+```
+
+    Hello Docs!
+
 ## Install
 
 ``` sh
@@ -21,3 +32,11 @@ Fill me in please! Don’t forget code examples:
 ```
 
     2
+
+### Import and test our module
+
+``` python
+new()
+```
+
+    this is a new function
