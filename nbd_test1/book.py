@@ -14,6 +14,6 @@ class Book:
         self.price = price
     
     def __str__(self):
-        return "str"
+        return "str rep"
     
     __repr__ = __str__
