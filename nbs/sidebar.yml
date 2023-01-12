@@ -3,3 +3,6 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - 01_my.ipynb
+      - 02_another.ipynb
+      - 03_book.ipynb
