@@ -5,6 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://anasbraj.github.io',
                 'git_url': 'https://github.com/anasbraj/nbd-test1',
                 'lib_path': 'nbd_test1'},
-  'syms': { 'nbd_test1.core': { 'nbd_test1.core.foo': ('core.html#foo', 'nbd_test1/core.py'),
-                                'nbd_test1.core.new': ('core.html#new', 'nbd_test1/core.py')},
-            'nbd_test1.my': {'nbd_test1.my.add': ('my.html#add', 'nbd_test1/my.py')}}}
+  'syms': { 'nbd_test1.book': { 'nbd_test1.book.Book': ('book.html#book', 'nbd_test1/book.py'),
+                                'nbd_test1.book.Book.__init__': ('book.html#book.__init__', 'nbd_test1/book.py'),
+                                'nbd_test1.book.Book.__str__': ('book.html#book.__str__', 'nbd_test1/book.py')},
+            'nbd_test1.core': { 'nbd_test1.core.foo': ('core.html#foo', 'nbd_test1/core.py'),
+                                'nbd_test1.core.new': ('core.html#new', 'nbd_test1/core.py')}}}
